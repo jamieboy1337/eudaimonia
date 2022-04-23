@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">eudaimonia</string>
+    <string name="app_name">Eudaimonia</string>
     <string name="splash_bg_desc">The beautiful mistress locks eyes with you</string>
+    <string name="central_planet_in_time_view">central planet in time view</string>
 </resources>

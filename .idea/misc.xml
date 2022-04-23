@@ -5,8 +5,16 @@
       <map>
         <entry key="..\:/wankstation/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1995" />
         <entry key="..\:/wankstation/app/src/main/res/drawable/button_transparent.xml" value="0.1185" />
+        <entry key="..\:/wankstation/app/src/main/res/drawable/circle_moon.xml" value="0.285" />
+        <entry key="..\:/wankstation/app/src/main/res/drawable/circle_planet.xml" value="0.285" />
         <entry key="..\:/wankstation/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1995" />
+        <entry key="..\:/wankstation/app/src/main/res/drawable/sphere_simple.xml" value="0.285" />
+        <entry key="..\:/wankstation/app/src/main/res/drawable/splashscreen_button.xml" value="0.33" />
+        <entry key="..\:/wankstation/app/src/main/res/drawable/time_fragment.xml" value="0.285" />
         <entry key="..\:/wankstation/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/wankstation/app/src/main/res/layout/home_screen.xml" value="0.25" />
+        <entry key="..\:/wankstation/app/src/main/res/layout/launch_page.xml" value="0.33" />
+        <entry key="..\:/wankstation/app/src/main/res/layout/time_fragment.xml" value="0.18" />
       </map>
     </option>
   </component>
